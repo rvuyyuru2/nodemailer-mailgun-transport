@@ -26,5 +26,6 @@ node_modules
 
 #IDE local configuration
 .vscode
+.idea
 
 es5
